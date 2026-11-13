@@ -1,6 +1,0 @@
-name: YApplePlugin
-version: 1.0.0
-main: ru.example.yapple.YApplePlugin
-api-version: '26.2'
-author: YourName
-description: Adds Youth and Aging apples with scale effects.
